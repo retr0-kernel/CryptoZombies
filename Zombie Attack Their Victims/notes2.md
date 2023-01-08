@@ -29,7 +29,7 @@ mapping (uint => string) userIdToName;
 ```
 A mapping is essentially a key-value store for storing and looking up data. In the first example, the key is an `address` and the value is a `uint`, and in the second example the key is a `uint` and the value a `string`.
 
-<h2> Msg.sender <h2>
+<h2> Msg.sender </h2>
 
 Now that we have our mappings to keep track of who owns a zombie, we'll want to update the `_createZombie` method to use them.
 
