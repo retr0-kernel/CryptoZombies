@@ -4,7 +4,7 @@
 
 <h3>The tutorial is as follow: </h3>
 
-1. Solidity: Beginner to Intermediate Smart Contracts
+## 1. Solidity: Beginner to Intermediate Smart Contracts
 
 * Making the Zombie Factory
 * Zombies Attack Their Victims
@@ -13,11 +13,11 @@
 * ERC721 & Crypto-Collectibles
 * App Front-ends & Web3.js
 
-2. Chainlink: Decentralized Oracles
+## 2. Chainlink: Decentralized Oracles
 
 * Data Feeds and Computation
 
-3. Advanced Solidity: Get In-depth Knowledge
+## 3. Advanced Solidity: Get In-depth Knowledge
 
 * Deploying DApps with Truffle
 * Testing Smart Contracts with Truffle
@@ -25,11 +25,11 @@
 * How to Build an Oracle - Part 2
 * How to Build an Oracle - Part 3
 
-4. Beyond Ethereum: Explore the Blockchain Ecosystem
+## 4. Beyond Ethereum: Explore the Blockchain Ecosystem
 
 * Intro to zkSync
 * Advanced zkSync Concepts
 
-5. Tron: Decentralize the web
+## 5. Tron: Decentralize the web
 
 * Deploying to TRON
