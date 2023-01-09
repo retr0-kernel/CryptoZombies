@@ -1,8 +1,8 @@
 <h1> CryptoZombies </h1>
 
-<p>It is an interactive way hat of learning all things technical about blockchains. Learn to write smart contracts by making your own crypto-collectibles game. Focused on Ethereum and Solidity Development</p>
+<p>It is an interactive way of learning all things technical about blockchains. Learn to write smart contracts by making your own crypto-collectibles game. Focused on Ethereum and Solidity Development</p>
 
-<h3>The tutorial is as follow: </h3>
+<h3>The tutorial is as follows: </h3>
 
 ## 1. Solidity: Beginner to Intermediate Smart Contracts
 
