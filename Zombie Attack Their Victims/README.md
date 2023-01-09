@@ -183,7 +183,7 @@ function testDnaSplicing() public {
 
 Later we can make our formula more complicated if we want to, like adding some randomness to the new zombie's DNA. But for now we'll keep it simple — we can always come back to it later.
 
-<h2> More on Function Visibility <h2>
+<h2> More on Function Visibility </h2>
 
 The code in our previous lesson has a mistake!
 
