@@ -4,32 +4,32 @@
 
 <h3>The tutorial is as follow: </h3>
 
-<li>Solidity: Beginner to Intermediate Smart Contracts</li>
+1. Solidity: Beginner to Intermediate Smart Contracts
 
-<ul>Making the Zombie Factory</ul>
-<ul>Zombies Attack Their Victims</ul>
-<ul>Advanced Solidity Concepts</ul>
-<ul>Zombie Battle System</ul>
-<ul>ERC721 & Crypto-Collectibles</ul>
-<ul>App Front-ends & Web3.js</ul>
+* Making the Zombie Factory
+* Zombies Attack Their Victims
+* Advanced Solidity Concepts
+* Zombie Battle System
+* ERC721 & Crypto-Collectibles
+* App Front-ends & Web3.js
 
-<li> Chainlink: Decentralized Oracles</li>
+2. Chainlink: Decentralized Oracles
 
-<ul>Data Feeds and Computation</ul>
+* Data Feeds and Computation
 
-<li> Advanced Solidity: Get In-depth Knowledge</li>
+3. Advanced Solidity: Get In-depth Knowledge
 
-<ul>Deploying DApps with Truffle</ul>
-<ul>Testing Smart Contracts with Truffle</ul>
-<ul>How to Build an Oracle</ul>
-<ul>How to Build an Oracle - Part 2</ul>
-<ul>How to Build an Oracle - Part 3</ul>
+* Deploying DApps with Truffle
+* Testing Smart Contracts with Truffle
+* How to Build an Oracle
+* How to Build an Oracle - Part 2
+* How to Build an Oracle - Part 3
 
-<li> Beyond Ethereum: Explore the Blockchain Ecosystem</li>
+4. Beyond Ethereum: Explore the Blockchain Ecosystem
 
-<ul>Intro to zkSync</ul>
-<ul>Advanced zkSync Concepts</ul>
+* Intro to zkSync
+* Advanced zkSync Concepts
 
-<li> Tron: Decentralize the web</li>
+5. Tron: Decentralize the web
 
-<ul>Deploying to TRON</ul>
+* Deploying to TRON
